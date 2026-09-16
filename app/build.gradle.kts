@@ -4,13 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.pemob.cutalzeena"
-    compileSdk {
-        version = release(37)
-    }
+    namespace = "com.pemmob.cutalzeena"
+    compileSdk = 37
 
     defaultConfig {
-        applicationId = "com.pemob.cutalzeena"
+        applicationId = "com.pemmob.cutalzeena"
         minSdk = 29
         targetSdk = 37
         versionCode = 1
