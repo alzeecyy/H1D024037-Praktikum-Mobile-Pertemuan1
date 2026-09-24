@@ -34,3 +34,13 @@ Pada pertemuan kedua, pengembangan aplikasi dilanjutkan dengan membuat antarmuka
 
 **Kesimpulan Praktikum:**
 Pada pertemuan ketiga, dilakukan pengembangan struktur aplikasi berbasis data dan UI modular. Dibuat model data (`Product` dan `Category`) serta `DummyData`, menambahkan `HomeActivity`, serta membangun layar `DaftarProductScreen` yang menyajikan filter kategori produk, kolom pencarian, tata letak grid produk, dan pengelolaan aset drawable.
+
+---
+
+## 📝 Tugas Pertemuan 4
+**Tanggal**: Kamis, 24 September 2026
+
+📂 **File**: [docs/Pertemuan 4](docs/Pertemuan%204)
+
+**Kesimpulan Praktikum:**
+Pada pertemuan keempat, dilakukan implementasi *State Management*, validasi formulir, integrasi *Photo Picker* pada `HubungiKamiScreen`, penerapan pola UI *Stateful & Stateless*, pembuatan layar `DetailProductScreen` lengkap dengan pemilih jumlah beli (*quantity selector*), serta pengoperasian *Jetpack Navigation* pada `HomeActivity` untuk antarmuka multi-layar.
