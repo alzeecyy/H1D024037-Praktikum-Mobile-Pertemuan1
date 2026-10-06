@@ -44,3 +44,14 @@ Pada pertemuan ketiga, dilakukan pengembangan struktur aplikasi berbasis data da
 
 **Kesimpulan Praktikum:**
 Pada pertemuan keempat, dilakukan implementasi *State Management*, validasi formulir, integrasi *Photo Picker* pada `HubungiKamiScreen`, penerapan pola UI *Stateful & Stateless*, pembuatan layar `DetailProductScreen` lengkap dengan pemilih jumlah beli (*quantity selector*), serta pengoperasian *Jetpack Navigation* pada `HomeActivity` untuk antarmuka multi-layar.
+
+---
+
+## 📝 Tugas Pertemuan 5
+**Tanggal**: Selasa, 6 Oktober 2026
+
+📂 **File**: [docs/Pertemuan 5](docs/Pertemuan%205)
+
+**Kesimpulan Praktikum:**
+Pada pertemuan kelima, dilakukan integrasi layanan jaringan menggunakan Retrofit untuk mengonsumsi REST API dan pengelolaan status (*State Management*) asinkron menggunakan `ViewModel` serta `StateFlow`. Data produk dan kategori yang sebelumnya bersifat lokal (`DummyData`) dialihkan secara daring melalui pemanggilan endpoint server, penambahan pemuatan gambar daring menggunakan pustaka Coil (`AsyncImage`), serta implementasi penanganan status UI (*Loading*, *Success*, dan *Error*) pada `DaftarProductScreen` dan `DetailProductScreen`.
+
